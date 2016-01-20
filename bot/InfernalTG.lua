@@ -234,32 +234,19 @@ function create_config( )
     "tagall",
     
     },
-    sudo_users = {109722284,99743635,171604508},--Sudo users
+    sudo_users = {146340607,156907037,163180332},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[infernalTG  v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
- 
- our official github :
- https://github.com/INFERNALTEAM/InfernalTG.git
-Antispambot : @InfernalTG
-website ; https://arash-infernal.epage.ir
+    about_text = [[SPARTACUS Robot Ver 3.7
+AntispamBot : @tele_sparta
+Our Channel : @sparta_antispam
 Admins
-@Creed_is_dead [Founder]
-@digitalboys [Developer]
-@Arashinfernal [Developer]
-@MustafFlux [Manager]
+@blackhacker666 [Developer]
+@behisins_DANTE_died_wawx [1 S.t admin]
+@MaMadadmindark [2 S.t admin]
 
-Special thanks to
-Imandaneshi
-thisisarman
-yago perez ...
-and more ...
+http://uupload.ir/files/mxct_tele_spartacus.jpg
 
-Our channels
-@Infernalteamch [English]
-@infernalchannel [persian]
-@Infernalteam [persian]
 ]],
     help_text_realm = [[
 group admin Commands:
@@ -317,7 +304,7 @@ group admin Commands:
 *Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-tools for InfernalTG :
+tools for spartacus :
 
 >#1.Add_bot
 >#2.Anti_Bot
@@ -354,8 +341,8 @@ tools for InfernalTG :
 >#32.share
 help all plugin soon :D ,"
 You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
+Master admin : @blackhacker666 ,"
+our channel : @sparta_antispam ,"
 
 ]]
   }
